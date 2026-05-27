@@ -31,7 +31,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> |
+  <a href="https://github.com/chethanakn-web">GitHub</a> |
   <a href="https://linkedin.com">LinkedIn</a> |
-  <a href="https://twitter.com">Twitter</a>
+  <a href="cchethanakn@gmail.com">Email</a>
 </p>
